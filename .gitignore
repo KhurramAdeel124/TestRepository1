@@ -1,2 +1,4 @@
 #Ignore AutoGen
 AutoGen/
+RemoteSystemsTempFiles/
+.metadata/
